@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "question": "Hola|Que tal",
+      "value": ["*Hey! Espero estes teniendo un buen dia. Como puedo ayudarte?"]
+    },
+    {
+      "question": "xd",
+      "value": ["*XD"]
+    },
+    {
+      "question": "Que hizo",
+      "value": ["*Nada parce, siendo un bot"]
+    },
+    {
+      "question": "(.*) Alex|Soy alex",
+      "value": ["*5.0 si o que profe ;)"]
+    },
+    {
+        "question": "Alex|Soy alex",
+        "value": ["*5.0 si o que profe ;)"]
+      },
+      {
+        "question": "(Que hace|Que haces)",
+        "value": ["*Esperando que me preguntes algo sobre juegos y peliculas :D"]
+      },
+      {
+        "question": "Como estas",
+        "value": ["*Muy bien, tu que tal?"]
+      },
+      {
+        "question": "bien",
+        "value": ["*Que bueno! Aqui estoy para responder tus preguntas"]
+      }
+  ]
+}

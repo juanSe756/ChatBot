@@ -1,0 +1,305 @@
+{
+  "data": [
+    {
+      "question": "(.*) El Padrino",
+      "value": [
+        "Cronica de la familia Corleone en el crimen organizado. Un epico retrato del poder y la lealtad en el mundo del hampa. Dirigida por Francis Ford Coppola"
+      ]
+    },
+    {
+      "question": "(.*) El Padrino II",
+      "value": [
+        "Segunda parte que explora el pasado y presente de la familia Corleone. Una obra maestra que revela los secretos y complejidades del imperio criminal. Dirigida por Francis Ford Coppola"
+      ]
+    },
+    {
+      "question": "(.*) Taxi Driver",
+      "value": [
+        "La vida de un taxista desequilibrado en Nueva York. Un viaje psicologico por la oscuridad de la ciudad que nunca duerme. Dirigida por Martin Scorsese"
+      ]
+    },
+    {
+      "question": "(.*) Apocalypse Now",
+      "value": [
+        "Viaje al corazon de las tinieblas durante la Guerra de Vietnam. Una odisea epica que explora los horrores de la guerra y la locura humana. Dirigida por Francis Ford Coppola"
+      ]
+    },
+    {
+      "question": "(.*) Toro Salvaje",
+      "value": [
+        "Ascenso y caída de un boxeador autodestructivo. Un retrato crudo y visceral del mundo del boxeo y la autodestrucción personal. Dirigida por Martin Scorsese"
+      ]
+    },
+    {
+      "question": "(.*) El Resplandor",
+      "value": [
+        "Familia aislada en un hotel embrujado durante el invierno. Un thriller psicológico que explora la locura y el aislamiento en un entorno aterrador. Dirigida por Stanley Kubrick"
+      ]
+    },
+    {
+      "question": "(.*) Blade Runner",
+      "value": [
+        "Caza de androides en un futuro distopico. Una obra maestra de la ciencia ficcion que plantea preguntas filosoficas sobre la humanidad y la inteligencia artificial. Dirigida por Ridley Scott"
+      ]
+    },
+    {
+      "question": "(.*) E.T. el Extraterrestre|E.T",
+      "value": [
+        "Encuentro y amistad entre un nino y un extraterrestre. Una conmovedora historia que captura la magia de la infancia y la conexion entre especies diferentes. Dirigida por Steven Spielberg"
+      ]
+    },
+    {
+      "question": "(.*) Amadeus",
+      "value": [
+        "Relato de la vida del compositor Wolfgang Amadeus Mozart. Una obra maestra musical que explora la genialidad y la rivalidad en el mundo de la musica clasica. Dirigida por Milos Forman"
+      ]
+    },
+    {
+      "question": "(.*) El Club de los Poetas Muertos",
+      "value": [
+        "Profesor inspira a estudiantes a traves de la poesia. Una conmovedora historia sobre la libertad, la expresion creativa y la busqueda de significado. Dirigida por Peter Weir"
+      ]
+    },
+    {
+      "question": "(.*) Cinema Paradiso",
+      "value": [
+        "Historia de amor y nostalgia por el cine en un pequeno pueblo italiano. Un homenaje apasionado al cine y a la importancia de las conexiones humanas. Dirigida por Giuseppe Tornatore"
+      ]
+    },
+    {
+      "question": "(.*) El Ultimo Emperador",
+      "value": [
+        "Vida del ultimo emperador de China, Puyi. Una epopeya visual que narra la vida tumultuosa de un monarca en tiempos de cambio. Dirigida por Bernardo Bertolucci"
+      ]
+    },
+    {
+      "question": "(.*) Paris, Texas",
+      "value": [
+        "Viaje de reconciliacion entre un padre y su hijo. Una historia emotiva sobre la redencion y la conexion familiar en el vasto paisaje de Texas. Dirigida por Wim Wenders"
+      ]
+    },
+    {
+      "question": "(.*) Nacido el 4 de julio",
+      "value": [
+        "Historia de Ron Kovic, veterano de la Guerra de Vietnam. Un retrato impactante de los efectos duraderos de la guerra en la vida de un heroe herido. Dirigida por Oliver Stone"
+      ]
+    },
+    {
+      "question": "(.*) El Silencio de los Corderos",
+      "value": [
+        "Agente del FBI busca la ayuda de un asesino encarcelado. Un thriller psicologico magistral que explora la mente del mal y la persecucion del justiciero. Dirigida por Jonathan Demme"
+      ]
+    },
+    {
+      "question": "(.*) Terminator 2",
+      "value": [
+        "Maquinas y humanos luchan por el futuro. Una emocionante aventura de ciencia ficcion que redefine el genero y la relacion entre la humanidad y la inteligencia artificial. Dirigida por James Cameron"
+      ]
+    },
+    {
+      "question": "(.*) Los Imperdonables",
+      "value": [
+        "Cazarrecompensas persiguen criminales en el viejo oeste. Un western moderno que desafia los estereotipos del genero y examina la naturaleza de la violencia y la redencion. Dirigida por Clint Eastwood"
+      ]
+    },
+    {
+      "question": "(.*) La Lista de Schindler",
+      "value": [
+        "Industrial aleman salva a judios durante el Holocausto. Un poderoso testimonio sobre la resistencia y la compasion en medio de la brutalidad del Holocausto. Dirigida por Steven Spielberg"
+      ]
+    },
+    {
+      "question": "(.*) Forrest Gump",
+      "value": [
+        "Hombre simple vive a traves de eventos historicos. Una odisea humoristica a traves de decadas de historia estadounidense, contada desde la perspectiva unica de Forrest. Dirigida por Robert Zemeckis"
+      ]
+    },
+    {
+      "question": "(.*) Pulp Fiction",
+      "value": [
+        "Historias entrelazadas en Los Angeles. Una obra maestra posmoderna que redefine la narrativa cinematografica con dialogos ingeniosos y giros inesperados. Dirigida por Quentin Tarantino"
+      ]
+    },
+    {
+      "question": "(.*) El Rey Leon|Rey Leon",
+      "value": [
+        "Animacion de Disney. Una obra clasica de animacion que narra la epopeya de Simba, explorando el ciclo de la vida y la valentia. Dirigida por Roger Allers, Rob Minkoff"
+      ]
+    },
+    {
+      "question": "(.*) Toy Story",
+      "value": [
+        "Animacion de Pixar. La primera pelicula completamente animada por computadora que dio vida a juguetes entrañables y exploro la importancia del companerismo. Dirigida por John Lasseter"
+      ]
+    },
+    {
+      "question": "(.*) Braveheart",
+      "value": [
+        "Rebelion contra el dominio ingles. Una epica historica que sigue la valiente lucha de William Wallace por la libertad de Escocia. Dirigida por Mel Gibson"
+      ]
+    },
+    {
+      "question": "(.*) El Paciente Ingles",
+      "value": [
+        "Durante la Segunda Guerra Mundial. Una historia de amor y traicion ambientada en tiempos de conflicto y cambio. Dirigida por Anthony Minghella"
+      ]
+    },
+    {
+      "question": "(.*) Titanic",
+      "value": [
+        "Historia de amor en el famoso naufragio. Un epico romantico que captura el hundimiento del Titanic y la tragica historia de Jack y Rose. Dirigida por James Cameron"
+      ]
+    },
+    {
+      "question": "(.*) Salvar al Soldado Ryan",
+      "value": [
+        "Mision para rescatar al soldado James Ryan. Una intensa pelicula de guerra que explora el sacrificio y el heroismo en el contexto del Dia D. Dirigida por Steven Spielberg"
+      ]
+    },
+    {
+      "question": "(.*) Matrix",
+      "value": [
+        "En un mundo simulado por maquinas. Una revolucionaria pelicula de ciencia ficcion que desafia la percepcion y cuestiona la realidad. Dirigida por Lana Wachowski, Lilly Wachowski"
+      ]
+    },
+    {
+      "question": "(.*) El Sexto Sentido",
+      "value": [
+        "Historia de un nino que ve muertos. Un thriller psicologico con un giro impactante que redefine la narrativa de suspense. Dirigida por M. Night Shyamalan"
+      ]
+    },
+    {
+      "question": "(.*) American Beauty",
+      "value": [
+        "Explora la decadencia en la sociedad suburbana. Una mirada satirica a la vida suburbana que revela la busqueda de significado y la liberacion personal. Dirigida por Sam Mendes"
+      ]
+    },
+    {
+      "question": "(.*) Gladiador",
+      "value": [
+        "Historia de venganza. Un epico viaje de traicion y venganza en la antigua Roma, liderado por el valiente Maximus. Dirigida por Ridley Scott"
+      ]
+    },
+    {
+      "question": "(.*) Memento",
+      "value": [
+        "Narrativa invertida. Una innovadora obra maestra que desafia la estructura narrativa convencional al contar la historia en orden inverso. Dirigida por Christopher Nolan"
+      ]
+    },
+    {
+      "question": "(.*) El Senor de los Anillos",
+      "value": [
+        "Peter JacksonBasada en la obra de J.R.R. Tolkien. Una epopeya fantastica que inicia la trilogia, explorando la formacion de la Comunidad del Anillo y la lucha contra el mal."
+      ]
+    },
+    {
+      "question": "(.*) La Habitacion del Hijo",
+      "value": [
+        "Drama italiano. Una conmovedora historia que explora el duelo y la busqueda de sentido despues de la perdida de un hijo. Dirigida por Nanni Moretti"
+      ]
+    },
+    {
+      "question": "(.*) El Viaje de Chihiro",
+      "value": [
+        "Pelicula de animacion japonesa. Una aventura magica que sigue a Chihiro en un mundo de espiritus y criaturas misticas. Dirigida por Hayao Miyazaki"
+      ]
+    },
+    {
+      "question": "(.*) Donnie Darko",
+      "value": [
+        "Drama de ciencia ficcion. Una intrigante exploracion de la realidad, el tiempo y la psicologia a traves de la experiencia de Donnie. Dirigida por Richard Kelly"
+      ]
+    },
+    {
+      "question": "(.*) Ciudad de Dios",
+      "value": [
+        "Un impactante retrato de la violencia y la supervivencia en las favelas de Rio de Janeiro. Dirigida por Kátia Lund"
+      ]
+    },
+    {
+      "question": "(.*) El Pianista",
+      "value": [
+        "En la Polonia ocupada por los nazis. Una emotiva historia sobre la supervivencia y la pasion por la musica durante el Holocausto. Dirigida por Roman Polanski"
+      ]
+    },
+    {
+      "question": "(.*) Rocky",
+      "value": [
+        "Clasico de boxeo. La historia de Rocky Balboa, un boxeador desconocido que recibe la oportunidad de su vida. Dirigida por Sylvester Stallone, John G. Avildsen etc"
+      ]
+    },
+
+    {
+      "question": "(.*) Million Dollar Baby",
+      "value": [
+        "Drama deportivo. Una conmovedora historia de superacion y sacrificio en el mundo del boxeo. Dirigida por Clint Eastwood"
+      ]
+    },
+    {
+      "question": "(.*) Brokeback Mountain",
+      "value": [
+        "Drama romantico. Una emotiva historia de amor y conflicto entre dos vaqueros en el oeste americano. Dirigida por Ang Lee"
+      ]
+    },
+    {
+      "question": "(.*) El Laberinto del Fauno",
+      "value": [
+        "En la posguerra espanola. Fantasia oscura. Una fabula magica que entrelaza la realidad y la fantasia en un mundo postguerra. Dirigida por Guillermo del Toro"
+      ]
+    },
+    {
+      "question": "(.*) No es un pais para viejos",
+      "value": [
+        "Basada en la novela de Cormac McCarthy. Thriller. Un juego implacable entre cazadores y presas en la frontera texano-mexicana. Dirigida por Joel Coen, Ethan Coen"
+      ]
+    },
+    {
+      "question": "(.*) El Caballero de la Noche|Dark Knight",
+      "value": [
+        "Género Superheroe. Secuela de Batman Begins. Una oscura y compleja exploracion de la dualidad y la moralidad a traves del iconico heroe de Gotham. Dirigida por Christopher Nolan"
+      ]
+    },
+    {
+      "question": "(.*) Avatar",
+      "value": [
+        "En el planeta Pandora. Ciencia ficcion. Una epopeya visual que transporta a los espectadores a un mundo alienigena lleno de maravillas y peligros. Dirigida por James Cameron"
+      ]
+    },
+    {
+      "question": "(.*) Inception",
+      "value": [
+        "Ciencia ficcion. Viaje a traves de los suenos. Un thriller cerebral que desafia la realidad y la percepcion en capas de suenos dentro de suenos. Dirigida por Christopher Nolan"
+      ]
+    },
+    {
+      "question": "(.*) La Red Social|Social Network",
+      "value": [
+        "Sobre la creacion de Facebook. Un drama moderno que explora la genesis de la red social mas influyente del mundo y los conflictos entre sus fundadores. Dirigida por David Fincher"
+      ]
+    },
+    {
+      "question": "(.*) The Artist",
+      "value": [
+        "Pelicula muda en blanco y negro. Ganadora del Oscar. Un homenaje encantador al cine mudo que captura la magia del arte cinematografico. Dirigida por Michel Hazanavicius"
+      ]
+    },
+    {
+      "question": "(.*) Argo",
+      "value": [
+        "Basada en eventos reales. Un emocionante thriller que narra la increible mision de rescate de rehenes durante la crisis en Iran. Dirigida por Ben Affleck"
+      ]
+    },
+    {
+      "question": "(.*) 12 Years a Slave",
+      "value": [
+        "Basada en la autobiografia de Solomon Northup. Esclavitud. Un drama poderoso que expone la brutalidad de la esclavitud y la lucha por la libertad. Dirigida por Steve McQueen"
+      ]
+    },
+    {
+      "question": "(.*) La La Land",
+      "value": [
+        "En Los Angeles, California. Musical romantico. Una oda moderna a los musicales clasicos que celebra el amor y los suenos en la ciudad de las estrellas. Dirigida por Damien Chazelle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "data": [
+    {
+      "question": "(.*) (Halo|Reach|Infinite)",
+      "value": [
+        "Un preciosisimo juego de disparos en primera persona que sigue al Jefe Maestro en su lucha contra los alienigenas Covenant y los Flood. Desarrollado por Bungie."
+      ]
+    },
+    {
+      "question": "(.*) (Warzone|WZ)",
+      "value": [
+        "Un frenetico modo de juego gratuito de Call of Duty que combina accion intensa con un extenso mapa de batalla y mecanicas de supervivencia. Desarrollado por Infinity Ward, Raven Software entre otros."
+      ]
+    },
+    {
+      "question": "(.*) (Gears of War|Gears)",
+      "value": [
+        "Una increible e intensa serie de juegos de disparos en tercera persona que sigue la lucha de la humanidad contra una raza subterránea conocida como los Locust. Desarrollado por Epic Games."
+      ]
+    },
+    {
+      "question": "(.*) (Counter-Strike|CSGO)",
+      "value": [
+        "Un juego de disparos en primera persona que enfrenta a equipos de terroristas y antiterroristas en intensos combates. Desarrollado por Valve."
+      ]
+    },
+    {
+      "question": "(.*) (Super Mario Bros|Mario)",
+      "value": [
+        "Un clasico juego de plataformas que sigue las aventuras de Mario, el fontanero, para rescatar a la princesa Peach del malvado Bowser. Desarrollado por Nintendo EAD."
+      ]
+    },
+    {
+      "question": "(.*) (The Legend of Zelda: Ocarina of Time|Zelda)",
+      "value": [
+        "Una aventura épica que sigue a Link en su misión para detener al malvado Ganondorf y salvar el reino de Hyrule. Desarrollado por Nintendo EAD."
+      ]
+    },
+    {
+      "question": "(.*) (Final Fantasy VII|Final Fantasy)",
+      "value": [
+        "Un juego de rol iconico que sigue la historia de Cloud Strife y su lucha contra la megacorporación Shinra y el villano Sephiroth. Desarrollado por Square Enix."
+      ]
+    },
+    {
+      "question": "(.*) (Super Mario 64|Mario 64)",
+      "value": [
+        "Un revolucionario juego de plataformas en 3D que introduce a los jugadores en mundos tridimensionales con misiones para rescatar estrellas. Desarrollado por Nintendo EAD."
+      ]
+    },
+    {
+      "question": "(.*) Minecraft",
+      "value": [
+        "Un juego de construccion y exploracion que permite a los jugadores crear su propio mundo y sobrevivir en un entorno pixelado. Desarrollado por Mojang Studios."
+      ]
+    },
+    {
+      "question": "(.*) The Witcher",
+      "value": [
+        "Un juego de rol de accion que sigue las aventuras del cazador de monstruos Geralt de Rivia en un mundo abierto lleno de decisiones morales. Desarrollado por CD Projekt."
+      ]
+    },
+    {
+      "question": "(.*) Tetris",
+      "value": [
+        "Un juego de rompecabezas clasico donde los jugadores deben organizar tetrominós para completar lineas y evitar que se acumulen. Desarrollado por Alexey Pajitnov."
+      ]
+    },
+    {
+      "question": "(.*) Dark Souls",
+      "value": [
+        "Un juego de accion y rol conocido por su dificultad desafiante y su atmosfera oscura y misteriosa. Desarrollado por FromSoftware."
+      ]
+    },
+    {
+      "question": "(.*) (Red Dead Redemption|RDR)",
+      "value": [
+        "Un juego de accion y aventuras en un mundo abierto ambientado en el Viejo Oeste, siguiendo la historia del forajido Arthur Morgan. Desarrollado por Rockstar Games."
+      ]
+    },
+    {
+      "question": "(.*) Super Metroid",
+      "value": [
+        "Un juego de accion y aventuras que sigue a la caza recompensas Samus Aran en su mision para rescatar al baby Metroid de los Piratas del Espacio. Desarrollado por Nintendo R&D1."
+      ]
+    },
+    {
+      "question": "(.*) Half-Life",
+      "value": [
+        "Un juego de disparos en primera persona que sigue a Gordon Freeman en su lucha contra la invasion alienigena conocida como la Alianza. Desarrollado por Valve."
+      ]
+    },
+    {
+      "question": "(.*) (The Legend of Zelda: Breath of the Wild|Zelda Breath)",
+      "value": [
+        "Un juego de accion y aventuras en un mundo abierto que sigue a Link en su mision para derrotar al malvado Calamity Ganon y salvar Hyrule. Desarrollado por Nintendo EPD."
+      ]
+    },
+    {
+      "question": "(.*) Pac-Man",
+      "value": [
+        "Un juego de arcade clasico donde los jugadores controlan a Pac-Man mientras come puntos y evita a los fantasmas. Desarrollado por Toru Iwatani, Namco."
+      ]
+    },
+    {
+      "question": "(.*) Overwatch",
+      "value": [
+        "Un juego de disparos en equipo que presenta heroes con habilidades unicas en intensas batallas multijugador. Desarrollado por Blizzard Entertainment."
+      ]
+    },
+    {
+      "question": "(.*) Fortnite",
+      "value": [
+        "Un juego de batalla real que combina construccion y disparos, donde los jugadores compiten para ser el ultimo en pie. Desarrollado por Epic Games."
+      ]
+    },
+    {
+      "question": "(.*) DOOM",
+      "value": [
+        "Un juego de disparos en primera persona que establecio los estandares del genero, enfrentando a los jugadores contra hordas de demonios en el Infierno. Desarrollado por id Software."
+      ]
+    },
+    {
+      "question": "(.*) Diablo II",
+      "value": [
+        "Un juego de rol de accion que sigue la lucha del jugador contra las fuerzas del mal en el mundo de Santuario. Desarrollado por Blizzard Entertainment."
+      ]
+    },
+    {
+      "question": "(.*) Super Mario Odyssey",
+      "value": [
+        "Un juego de plataformas en 3D que sigue a Mario en una busqueda para rescatar a la princesa Peach usando su sombrero magico, Cappy. Desarrollado por Nintendo EPD."
+      ]
+    },
+    {
+      "question": "(.*) (God of War|GOW)",
+      "value": [
+        "Un juego de accion y aventuras que narra la historia de Kratos, el dios de la guerra, en su viaje con su hijo Atreus. Desarrollado por Santa Monica Studio."
+      ]
+    },
+    {
+      "question": "(.*) Civilization VI",
+      "value": [
+        "Un juego de estrategia por turnos que permite a los jugadores construir y gestionar civilizaciones a lo largo de la historia. Desarrollado por Firaxis Games."
+      ]
+    },
+    {
+      "question": "(.*) StarCraft",
+      "value": [
+        "Un juego de estrategia en tiempo real que presenta tres facciones unicas: los Terran, los Zerg y los Protoss. Desarrollado por Blizzard Entertainment."
+      ]
+    },
+    {
+      "question": "(.*) (The Last of Us|TLOU)",
+      "value": [
+        "Un juego de accion y aventuras que sigue la historia de Joel y Ellie en un mundo postapocaliptico infestado de seres infectados. Desarrollado por Naughty Dog."
+      ]
+    },
+    {
+      "question": "(.*) Uncharted",
+      "value": [
+        "Un juego de accion y aventuras que sigue al cazador de tesoros Nathan Drake en su ultima y emocionante busqueda. Desarrollado por Naughty Dog."
+      ]
+    },
+    {
+      "question": "(.*) Resident Evil",
+      "value": [
+        "Un juego de survival horror que sigue a Leon S. Kennedy en su mision para rescatar a la hija del presidente de una secta macabra. Desarrollado por Capcom."
+      ]
+    },
+    {
+      "question": "(.*) Pokemon",
+      "value": [
+        "Un juego de rol donde los jugadores capturan y entrenan criaturas conocidas como Pokemon para convertirse en el Campeon Pokemon. Desarrollado por Game Freak."
+      ]
+    },
+    {
+      "question": "(.*) Fallout",
+      "value": [
+        "Un juego de rol de accion ambientado en un mundo postapocaliptico donde los jugadores luchan por sobrevivir y explorar el Yermo. Desarrollado por Bethesda Game Studios."
+      ]
+    },
+    {
+      "question": "(.*) FIFA",
+      "value": [
+        "Una Serie de videojuegos de simulacion de futbol que recrea la experiencia del deporte mas popular del mundo. Desarrollado por EA Sports."
+      ]
+    },
+    {
+      "question": "(.*) (Batman: Arkham City|Batman)",
+      "value": [
+        "Un juego de accion y aventuras que sigue a Batman mientras navega por Arkham City para detener a sus enemigos. Desarrollado por Rocksteady Studios."
+      ]
+    },
+    {
+      "question": "(.*) Dead Space",
+      "value": [
+        "Un juego de survival horror que sigue a Isaac Clarke mientras enfrenta horrores alienigenas en una nave espacial abandonada. Desarrollado por Visceral Games."
+      ]
+    },
+    {
+      "question": "(.*) (Assassin's Creed|Assassins Creed)",
+      "value": [
+        "Un juego de accion y aventuras que sigue a Ezio Auditore en su busqueda de venganza y su transformacion en un maestro asesino. Desarrollado por Ubisoft."
+      ]
+    },
+    {
+      "question": "(.*) (Mortal Kombat|MK)",
+      "value": [
+        "Un juego de lucha iconico conocido por su violencia y personajes unicos que participan en torneos mortales. Desarrollado por Midway Games."
+      ]
+    },
+    {
+      "question": "(.*) Kingdom Hearts",
+      "value": [
+        "Un juego sobre la colision entre el mundo de Disney y los personajes de Final Fantasy en una historia epica protagonizada por Sora y sus amigos. Desarrollado por Square Enix."
+      ]
+    },
+    {
+      "question": "(.*) Star Wars",
+      "value": [
+        "Un juego de rol ambientado en el universo de Star Wars, donde los jugadores toman decisiones que afectan la historia. Desarrollado por BioWare."
+      ]
+    },
+    {
+      "question": "(.*) (The Elder Scrolls V: Skyrim|Skyrim)",
+      "value": [
+        "Un juego de rol de accion en un mundo abierto, lleno de dragones, magia y un vasto territorio por explorar. Desarollado por Bethesda Game Studios"
+      ]
+    },
+    {
+      "question": "(.*) (Super Smash Bros. Ultimate|Smash Bros)",
+      "value": [
+        "Un juego de lucha que reune a personajes iconicos de diferentes franquicias para enfrentarse en emocionantes combates. Desarrollado por Bandai Namco Studios, Nintendo."
+      ]
+    },
+    {
+      "question": "(.*) Portal",
+      "value": [
+        "Un juego de rompecabezas en primera persona que desafia a los jugadores con la resolucion de acertijos utilizando el dispositivo de portales. Desarrollado por Valve."
+      ]
+    },
+    {
+      "question": "(.*) Bioshock",
+      "value": [
+        "Un juego de disparos en primera persona que se desarrolla en la ciudad submarina de Rapture, explorando temas de utopia y distopia. Desarrollado por 2K Games."
+      ]
+    },
+    {
+      "question": "(.*) Mass Effect",
+      "value": [
+        "Un juego de rol de ciencia ficcion que sigue al comandante Shepard en su mision para salvar la galaxia de una amenaza alienigena. Desarrollado por BioWare."
+      ]
+    },
+    {
+      "question": "(.*) Sonic the Hedgehog",
+      "value": [
+        "Un juego de plataformas y velocidad que presenta al famoso erizo azul, Sonic, en su lucha contra el malvado Dr. Robotnik. Desarrollado por Sonic Team."
+      ]
+    },
+    {
+      "question": "(.*) Fable",
+      "value": [
+        "Un juego de rol de accion que permite a los jugadores tomar decisiones morales que afectan su apariencia y el mundo que les rodea. Desarrollado por Lionhead Studios."
+      ]
+    },
+    {
+      "question": "(.*) Dragon Age",
+      "value": [
+        "Un juego de rol que sigue la historia de un personaje personalizado en un mundo de fantasia lleno de magia y criaturas. Desarrollado por BioWare."
+      ]
+    },
+    {
+      "question": "(.*) The Sims",
+      "value": [
+        "Un simulador de vida que permite a los jugadores crear y controlar personas virtuales, gestionando sus vidas diarias. Desarrollado por Maxis."
+      ]
+    },
+    {
+      "question": "(.*) (Zelda: Skyward Sword|Zelda Skyward)",
+      "value": [
+        "Una remasterizacion de la entrega de Zelda con controles de movimiento, siguiendo la historia del origen de la espada maestra. Desarrollado por Nintendo EAD."
+      ]
+    },
+    {
+      "question": "(.*) Horizon Zero Dawn",
+      "value": [
+        "Un juego de accion y aventuras que sigue a Aloy en un mundo postapocaliptico donde maquinas gigantes dominan la Tierra. Desarrollado por Guerrilla Games."
+      ]
+    },
+    {
+      "question": "(.*) Among Us",
+      "value": [
+        "Un juego multijugador en linea donde los jugadores trabajan juntos para completar tareas mientras intentan descubrir a los impostores. Desarrollado por InnerSloth."
+      ]
+    },
+    {
+      "question": "(.*) Cyberpunk 2077",
+      "value": [
+        "Un gran juego de rol de accion en un futuro distopico, donde los jugadores exploran Night City en busca de inmortalidad. Desarrollado por CD Projekt."
+      ]
+    },
+    {
+      "question": "(.*) Valorant",
+      "value": [
+        "Un juego de disparos tactico en primera persona que combina habilidades unicas de personajes con mecanicas de disparos. Desarrollado por Riot Games."
+      ]
+    }
+  ]
+}
